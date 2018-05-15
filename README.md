@@ -52,9 +52,11 @@ docker-compose up -d
 ![主界面](doc/vulstudy.jpg)
 
 ## 0x3 FAQ
-**1.第一次bWAPP容器访问主页会报错**
+**1.第一次bWAPP容器访问主页会报错如下**
 
+```
 Connection failed: Unknown database 'bWAPP'
+```
 
 **解决：** 第一次创建应事先访问/install.php来创建数据库！
 
