@@ -1,0 +1,14 @@
+version: '2'
+services:
+ web:
+  #build: .
+  image: dvwa1.9:0.1
+  links:
+   - db:db
+  ports:
+   - "80:80"
+
+ db:
+  image: mysql:5
+  environment: 
+   - MYSQL_ROOT_PASSWORD=root
