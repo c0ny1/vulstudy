@@ -4,7 +4,7 @@ vulstudy是专门收集当下流行的漏洞学习平台，并将其制作成doc
 
 |序号|漏洞平台|包含漏洞|作者|语言|
 |:---:|:---:|:----:|:---:|:---:|
-|1|[DVWA](http://www.dvwa.co.uk)|暴力破解，XSS，CSRF，SQL注入，命令执行|未知|php|
+|1|[DVWA](http://www.dvwa.co.uk)|综合|未知|php|
 |2|[bwapp](https://sourceforge.net/projects/bwapp/)|综合|未知|php|
 |3|[sqli-labs](https://github.com/Audi-1/sqli-labs)|SQL注入|[Audi](https://github.com/Audi-1)|php|
 |4|[mutillidae](http://sourceforge.net/projects/mutillidae)|综合|OWASP|php|
@@ -12,8 +12,8 @@ vulstudy是专门收集当下流行的漏洞学习平台，并将其制作成doc
 |6|[WackoPicko](https://github.com/adamdoupe/WackoPicko)|综合|[adamdoupe](https://github.com/adamdoupe)|php|
 |7|[WebGoat](https://github.com/WebGoat/WebGoat)|综合|OWASP|java|
 |8|[Hackademic](https://github.com/Hackademic/hackademic)|综合|[northdpole](https://github.com/northdpole)|php|
-|9|[XSSed](https://github.com/aj00200/xssed)|XSS|AJ00200|php|
-|10|[DSVW](https://github.com/stamparm/DSVW)|综合|Miroslav Stampar|python|
+|9|[XSSed](https://github.com/aj00200/xssed)|XSS|[AJ00200](https://github.com/aj00200)|php|
+|10|[DSVW](https://github.com/stamparm/DSVW)|综合|[Miroslav Stampar](https://github.com/stamparm)|python|
 |11|[vulnerable-node](https://github.com/cr0hn/vulnerable-node)|综合|[cr0hn](https://github.com/cr0hn)|NodeJS|
 |12|[MCIR](https://github.com/SpiderLabs/MCIR)|综合|[Spider Labs](https://github.com/SpiderLabs)|php|
 
