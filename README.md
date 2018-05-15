@@ -49,14 +49,14 @@ docker-compose stop #停止
 cd vulstudy
 docker-compose up -d
 ```
-![演示二](show2.gif)
+![主界面](doc/vulstudy.jpg)
 
 ## 0x3 FAQ
 **1.第一次bWAPP容器访问主页会报错**
 
 Connection failed: Unknown database 'bWAPP'
 
-**解决：**第一次创建应事先访问/install.php来创建数据库！
+**解决：** 第一次创建应事先访问/install.php来创建数据库！
 
 ## 0x4 声明
 该项目只是收集了当下比较流行的漏洞学习平台，若有侵权，请联系我！同时欢迎大家提交更多有意思的漏洞学习平台，让我们一起把它们放到docker上，方便更多人的工作和学习！
