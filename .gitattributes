@@ -1,0 +1,5 @@
+*.js linguist-language=shell
+*.css linguist-language=shell
+*.html linguist-language=shell
+*.php linguist-language=shell
+*.yml linguist-language=shell
