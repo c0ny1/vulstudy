@@ -36,9 +36,9 @@ git clone https://github.com/c0ny1/vulstudy.git
 cd到要运行的漏洞平台下运行以下命令
 
 ```
-cd vulstudy/dvwa
-docer-compose up -d #启动
-docker-compose stop #停止
+cd vulstudy/DVWA
+docker-compose up -d #启动容器
+docker-compose stop #停止容器
 ```
 
 #### 2.同时运行所有漏洞平台
@@ -47,7 +47,8 @@ docker-compose stop #停止
 
 ```
 cd vulstudy
-docker-compose up -d
+docker-compose up -d #启动容器
+docker-compose stop #停止容器
 ```
 ![主界面](doc/vulstudy.jpg)
 
