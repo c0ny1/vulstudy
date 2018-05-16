@@ -28,7 +28,7 @@ services:
  bodgelt:
   image: psiinon/bodgeit:latest
   ports:
-   - "85:80"
+   - "85:8080"
 
  wackopicko:
   image: adamdoupe/wackopicko:latest
