@@ -2,7 +2,7 @@ version: '2'
 services:
  web:
   #build: .
-  image: dvwa1.9:0.1
+  image: c0ny1/dvwa:v1.9
   links:
    - db:db
   ports:
