@@ -1,5 +1,5 @@
+#url: http://ip:8080/WebGoat
 version: '2.0'
-
 services:
   webgoat:
     #build: webgoat-server/
