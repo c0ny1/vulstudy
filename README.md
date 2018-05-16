@@ -61,7 +61,7 @@ Connection failed: Unknown database 'bWAPP'
 
 **解决：** 第一次创建应事先访问/install.php来创建数据库！
 
-**2.第一次搭建DVWA，在苹果系统下的safire浏览器下无法初始化数据库，并提示如下：**
+**2.第一次搭建DVWA，在苹果系统下的safari浏览器下无法初始化数据库，并提示如下：**
 
 ```
 CSRF token is incorrect
