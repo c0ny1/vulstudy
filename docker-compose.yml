@@ -52,7 +52,7 @@ services:
  Hackademic:
   image: c0ny1/hackademic:master
   ports:
-    - "87:80"
+    - "1664:80"
 
  XSSed:
   image: c0ny1/xssed:latest
