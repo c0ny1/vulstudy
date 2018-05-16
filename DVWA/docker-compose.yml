@@ -3,7 +3,5 @@ services:
  web:
   #build: .
   image: c0ny1/dvwa:v1.9
-  links:
-   - db:db
   ports:
    - "80:80"
