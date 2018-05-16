@@ -5,7 +5,7 @@ vulstudy是专门收集当下流行的漏洞学习平台，并将其制作成doc
 |序号|漏洞平台|包含漏洞|作者|语言|
 |:---:|:---:|:----:|:---:|:---:|
 |1|[DVWA](http://www.dvwa.co.uk)|综合|未知|php|
-|2|[bwapp](https://sourceforge.net/projects/bwapp/)|综合|未知|php|
+|2|[bWAPP](https://sourceforge.net/projects/bwapp/)|综合|未知|php|
 |3|[sqli-labs](https://github.com/Audi-1/sqli-labs)|SQL注入|[Audi](https://github.com/Audi-1)|php|
 |4|[mutillidae](http://sourceforge.net/projects/mutillidae)|综合|OWASP|php|
 |5|[BodgeIt](https://github.com/psiinon/bodgeit)|综合|[psiinon](https://github.com/psiinon/bodgeit)|java|
