@@ -53,7 +53,7 @@ docker-compose stop #停止容器
 ![主界面](doc/vulstudy.jpg)
 
 ## 0x3 FAQ
-**1.第一次bWAPP容器访问主页会报错如下：**
+**1.第一次启动bWAPP容器访问其主页会报错如下：**
 
 ```
 Connection failed: Unknown database 'bWAPP'
@@ -67,7 +67,7 @@ Connection failed: Unknown database 'bWAPP'
 CSRF token is incorrect
 ```
 
-**解决：** 使用苹果系统下的其他浏览器即可，比如chorme。
+**解决：** 使用苹果系统下的其他浏览器即可，比如Chrome。
 
 ## 0x4 声明
 该项目只是收集了当下比较流行的漏洞学习平台，若有侵权，请联系我！同时欢迎大家提交更多有意思的漏洞学习平台，让我们一起把它们放到docker上，方便更多人的工作和学习！
