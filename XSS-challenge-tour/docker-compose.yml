@@ -2,6 +2,6 @@ version: '2'
 services:
  web:
    #build: .
-   image: c0ny1/xssed:latest
+   image: c0ny1/xss-challenge-tour:latest
    ports:
-     - "80:80"
+     - "8091:80"
