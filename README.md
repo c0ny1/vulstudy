@@ -50,7 +50,7 @@ cd vulstudy
 docker-compose up -d #启动容器
 docker-compose stop #停止容器
 ```
-![主界面](doc/vulstudy.jpg)
+![主界面](doc/vulstudy.png)
 
 ## 0x3 FAQ
 **1.第一次启动bWAPP容器访问其主页会报错如下：**

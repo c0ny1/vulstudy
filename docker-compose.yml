@@ -59,6 +59,11 @@ services:
   ports:
    - "88:80"
 
+ Xss_challenge_tour:
+  image: c0ny1/xss-challenge-tour:latest
+  ports:
+   - "8091:80"
+
  dsvw:
   image: c0ny1/dsvw:v0.1m
   ports:
