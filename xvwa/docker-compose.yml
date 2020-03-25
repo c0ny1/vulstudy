@@ -1,0 +1,12 @@
+web:
+  build: .
+  ports:
+   - "8000:80"
+  volumes:
+   - ./:/var/www
+  links:
+   - db
+db:
+  image: orchardup/mysql
+  environment:
+      MYSQL_DATABASE: xvwa
